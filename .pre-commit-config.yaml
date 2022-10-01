@@ -1,1 +1,6 @@
 
+repos:
+- repo: https://github.com/DFW1N/DevOps-Controls
+  rev: v0.0.1
+  hooks:
+    - id: terraform_docs
